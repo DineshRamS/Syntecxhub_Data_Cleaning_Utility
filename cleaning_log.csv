@@ -1,0 +1,6 @@
+Step,Action,Result
+Missing Calories,Filled missing values with median,2 values filled with 291.2
+Missing Date,Filled missing date using surrounding date sequence,Missing date filled as 2020-12-22
+Date Parsing,Converted Date column to datetime,Date type changed to datetime64[ns]
+Duplicate Removal,Removed duplicate rows,1 duplicate removed
+Column Name Standardization,Converted column names to lowercase,Standardized to lowercase names
